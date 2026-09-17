@@ -1,0 +1,7 @@
+---
+description: Regla de rendimiento, profiling, render budgets y memory leaks para Cursor IDE
+globs: ["**/*"]
+---
+
+Al abordar optimizaciones de rendimiento, profiling, consumo de memoria o caídas de FPS, consultar `.skill/performance-agent-skill/SKILL.md` y `.skill/performance-agent-skill/adapters/`.
+Exigir medición previa (Antes vs Después). Prohibida la optimización por conjetura.

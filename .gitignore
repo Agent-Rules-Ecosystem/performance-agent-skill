@@ -1,0 +1,8 @@
+# Git ignore file for agent-skill
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
+*.bak
