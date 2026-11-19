@@ -84,7 +84,7 @@ Al ejecutar esta skill (mediante `$performance`, `$performance:audit` o perfiles
 
 ## 🎯 Tareas de Optimización Accionables
 
-| ID | Vector | Estado | Métrica / Evidencia | Ruta / Componente | Acción Requerida |
+| ID | Tipo | Estado | Resumen | Evidencia/Ruta | Acción Requerida |
 |---|---|---|---|---|---|
 | PERF-01 | Render | Pendiente | 45ms frame time al scrollear lista | `src/views/FeedView` | Virtualizar lista y añadir frontera de repintado |
 | PERF-02 | Memory | Pendiente | 80MB bitmap no liberado | `src/components/Gallery` | Aplicar downsampling en decodificación |
